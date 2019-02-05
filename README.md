@@ -1,6 +1,10 @@
 # Hello-World
 simple project
-Its my First Comment and make on 
+Its my 2nd attempt adn 2nd Branch
 
 
-Pull request from new Branch Created
+
+FIRST CREATE A BRANCH
+THEN EDIT THE CODE PLUS COMMMENT 
+PULL COMMENTED CODE 
+MERGE AND FUNCTIONAL BRANCH WITH MASTER THEN DELETE OLD BRANCH
